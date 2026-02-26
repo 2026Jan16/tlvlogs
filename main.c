@@ -70,9 +70,6 @@ struct lds *array_init(const unsigned int selem, const unsigned int nelem)
 {
 	struct lds *array = _lds_alloc(LDS_ARRAY);
 
-	array->mem = calloc(nelem, selem);
-	assert(array->mem != NULL);
-
 	array->selem = selem;
 	array->nelem = nelem;
 
