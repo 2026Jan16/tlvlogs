@@ -104,12 +104,13 @@ static struct lds *lds_init(enum lds_type type, const unsigned int selem,
 
 static void print_lds(struct lds *lds)
 {
-	printf("%s: lds @ %p\n", __func__, lds);
+	int algn = 10;
+	printf("%-*s: lds @ %p\n", algn, __func__, lds);
 	if (!lds) return;
-	printf("mem: %p\n", lds->mem);
-	printf("type: %d\n", lds->type);
-	printf("selem: %u\n", lds->selem);
-	printf("nelem: %u\n", lds->nelem);
+	printf("%-*s: %p\n", algn, "mem", lds->mem);
+	printf("%-*s: %d\n", algn, "type", lds->type);
+	printf("%-*s: %u\n", algn, "selem", lds->selem);
+	printf("%-*s: %u\n", algn, "nelem", lds->nelem);
 	printf("\n");
 }
 
