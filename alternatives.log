@@ -1,0 +1,80 @@
+update-alternatives 2026-02-03 13:34:38: run with --remove editor /usr/bin/code
+update-alternatives 2026-02-03 13:34:43: run with --install /usr/bin/editor editor /usr/bin/code 0
+update-alternatives 2026-02-03 13:34:44: run with --install /usr/bin/editor editor /usr/bin/code 0
+update-alternatives 2026-02-03 13:34:45: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/google-chrome-stable 200
+update-alternatives 2026-02-03 13:34:45: run with --install /usr/bin/gnome-www-browser gnome-www-browser /usr/bin/google-chrome-stable 200
+update-alternatives 2026-02-03 13:34:45: run with --install /usr/bin/google-chrome google-chrome /usr/bin/google-chrome-stable 200
+update-alternatives 2026-02-25 16:51:05: run with --remove editor /usr/bin/code
+update-alternatives 2026-02-25 16:51:12: run with --install /usr/bin/editor editor /usr/bin/code 0
+update-alternatives 2026-02-25 16:51:14: run with --install /usr/bin/editor editor /usr/bin/code 0
+update-alternatives 2026-02-25 16:51:16: run with --install /usr/bin/x-www-browser x-www-browser /usr/bin/google-chrome-stable 200
+update-alternatives 2026-02-25 16:51:16: run with --install /usr/bin/gnome-www-browser gnome-www-browser /usr/bin/google-chrome-stable 200
+update-alternatives 2026-02-25 16:51:16: run with --install /usr/bin/google-chrome google-chrome /usr/bin/google-chrome-stable 200
+update-alternatives 2026-03-13 11:45:07: run with --remove x-www-browser /usr/bin/google-chrome-stable
+update-alternatives 2026-03-13 11:45:07: link group x-www-browser updated to point to /usr/bin/firefox
+update-alternatives 2026-03-13 11:45:07: run with --remove gnome-www-browser /usr/bin/google-chrome-stable
+update-alternatives 2026-03-13 11:45:07: link group gnome-www-browser updated to point to /usr/bin/firefox
+update-alternatives 2026-03-13 11:45:07: run with --remove google-chrome /usr/bin/google-chrome-stable
+update-alternatives 2026-03-13 11:45:07: link group google-chrome fully removed
+update-alternatives 2026-03-15 01:27:47: run with --install /usr/bin/java java /usr/lib/jvm/java-21-openjdk-amd64/bin/java 2111 --slave /usr/share/man/man1/java.1.gz java.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/java.1.gz
+update-alternatives 2026-03-15 01:27:47: link group java updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/java
+update-alternatives 2026-03-15 01:27:47: run with --install /usr/bin/jpackage jpackage /usr/lib/jvm/java-21-openjdk-amd64/bin/jpackage 2111 --slave /usr/share/man/man1/jpackage.1.gz jpackage.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jpackage.1.gz
+update-alternatives 2026-03-15 01:27:47: link group jpackage updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jpackage
+update-alternatives 2026-03-15 01:27:47: run with --install /usr/bin/keytool keytool /usr/lib/jvm/java-21-openjdk-amd64/bin/keytool 2111 --slave /usr/share/man/man1/keytool.1.gz keytool.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/keytool.1.gz
+update-alternatives 2026-03-15 01:27:47: link group keytool updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/keytool
+update-alternatives 2026-03-15 01:27:47: run with --install /usr/bin/rmiregistry rmiregistry /usr/lib/jvm/java-21-openjdk-amd64/bin/rmiregistry 2111 --slave /usr/share/man/man1/rmiregistry.1.gz rmiregistry.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/rmiregistry.1.gz
+update-alternatives 2026-03-15 01:27:47: link group rmiregistry updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/rmiregistry
+update-alternatives 2026-03-15 01:27:47: run with --install /usr/bin/jexec jexec /usr/lib/jvm/java-21-openjdk-amd64/lib/jexec 2111 --slave /usr/share/binfmts/jar jexec-binfmt /usr/lib/jvm/java-21-openjdk-amd64/lib/jar.binfmt
+update-alternatives 2026-03-15 01:27:47: link group jexec updated to point to /usr/lib/jvm/java-21-openjdk-amd64/lib/jexec
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jar jar /usr/lib/jvm/java-21-openjdk-amd64/bin/jar 2111 --slave /usr/share/man/man1/jar.1.gz jar.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jar.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jar updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jar
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jarsigner jarsigner /usr/lib/jvm/java-21-openjdk-amd64/bin/jarsigner 2111 --slave /usr/share/man/man1/jarsigner.1.gz jarsigner.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jarsigner.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jarsigner updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jarsigner
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/javac javac /usr/lib/jvm/java-21-openjdk-amd64/bin/javac 2111 --slave /usr/share/man/man1/javac.1.gz javac.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/javac.1.gz
+update-alternatives 2026-03-15 01:27:49: link group javac updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/javac
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/javadoc javadoc /usr/lib/jvm/java-21-openjdk-amd64/bin/javadoc 2111 --slave /usr/share/man/man1/javadoc.1.gz javadoc.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/javadoc.1.gz
+update-alternatives 2026-03-15 01:27:49: link group javadoc updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/javadoc
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/javap javap /usr/lib/jvm/java-21-openjdk-amd64/bin/javap 2111 --slave /usr/share/man/man1/javap.1.gz javap.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/javap.1.gz
+update-alternatives 2026-03-15 01:27:49: link group javap updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/javap
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jcmd jcmd /usr/lib/jvm/java-21-openjdk-amd64/bin/jcmd 2111 --slave /usr/share/man/man1/jcmd.1.gz jcmd.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jcmd.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jcmd updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jcmd
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jdb jdb /usr/lib/jvm/java-21-openjdk-amd64/bin/jdb 2111 --slave /usr/share/man/man1/jdb.1.gz jdb.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jdb.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jdb updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jdb
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jdeprscan jdeprscan /usr/lib/jvm/java-21-openjdk-amd64/bin/jdeprscan 2111 --slave /usr/share/man/man1/jdeprscan.1.gz jdeprscan.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jdeprscan.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jdeprscan updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jdeprscan
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jdeps jdeps /usr/lib/jvm/java-21-openjdk-amd64/bin/jdeps 2111 --slave /usr/share/man/man1/jdeps.1.gz jdeps.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jdeps.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jdeps updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jdeps
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jfr jfr /usr/lib/jvm/java-21-openjdk-amd64/bin/jfr 2111 --slave /usr/share/man/man1/jfr.1.gz jfr.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jfr.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jfr updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jfr
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jimage jimage /usr/lib/jvm/java-21-openjdk-amd64/bin/jimage 2111
+update-alternatives 2026-03-15 01:27:49: link group jimage updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jimage
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jinfo jinfo /usr/lib/jvm/java-21-openjdk-amd64/bin/jinfo 2111 --slave /usr/share/man/man1/jinfo.1.gz jinfo.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jinfo.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jinfo updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jinfo
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jlink jlink /usr/lib/jvm/java-21-openjdk-amd64/bin/jlink 2111 --slave /usr/share/man/man1/jlink.1.gz jlink.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jlink.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jlink updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jlink
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jmap jmap /usr/lib/jvm/java-21-openjdk-amd64/bin/jmap 2111 --slave /usr/share/man/man1/jmap.1.gz jmap.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jmap.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jmap updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jmap
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jmod jmod /usr/lib/jvm/java-21-openjdk-amd64/bin/jmod 2111 --slave /usr/share/man/man1/jmod.1.gz jmod.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jmod.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jmod updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jmod
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jps jps /usr/lib/jvm/java-21-openjdk-amd64/bin/jps 2111 --slave /usr/share/man/man1/jps.1.gz jps.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jps.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jps updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jps
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jrunscript jrunscript /usr/lib/jvm/java-21-openjdk-amd64/bin/jrunscript 2111 --slave /usr/share/man/man1/jrunscript.1.gz jrunscript.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jrunscript.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jrunscript updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jrunscript
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jshell jshell /usr/lib/jvm/java-21-openjdk-amd64/bin/jshell 2111 --slave /usr/share/man/man1/jshell.1.gz jshell.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jshell.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jshell updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jshell
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jstack jstack /usr/lib/jvm/java-21-openjdk-amd64/bin/jstack 2111 --slave /usr/share/man/man1/jstack.1.gz jstack.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jstack.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jstack updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jstack
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jstat jstat /usr/lib/jvm/java-21-openjdk-amd64/bin/jstat 2111 --slave /usr/share/man/man1/jstat.1.gz jstat.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jstat.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jstat updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jstat
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jstatd jstatd /usr/lib/jvm/java-21-openjdk-amd64/bin/jstatd 2111 --slave /usr/share/man/man1/jstatd.1.gz jstatd.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jstatd.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jstatd updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jstatd
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jwebserver jwebserver /usr/lib/jvm/java-21-openjdk-amd64/bin/jwebserver 2111 --slave /usr/share/man/man1/jwebserver.1.gz jwebserver.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jwebserver.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jwebserver updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jwebserver
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/serialver serialver /usr/lib/jvm/java-21-openjdk-amd64/bin/serialver 2111 --slave /usr/share/man/man1/serialver.1.gz serialver.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/serialver.1.gz
+update-alternatives 2026-03-15 01:27:49: link group serialver updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/serialver
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jhsdb jhsdb /usr/lib/jvm/java-21-openjdk-amd64/bin/jhsdb 2111 --slave /usr/share/man/man1/jhsdb.1.gz jhsdb.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jhsdb.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jhsdb updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jhsdb
+update-alternatives 2026-03-15 01:27:49: run with --install /usr/bin/jconsole jconsole /usr/lib/jvm/java-21-openjdk-amd64/bin/jconsole 2111 --slave /usr/share/man/man1/jconsole.1.gz jconsole.1.gz /usr/lib/jvm/java-21-openjdk-amd64/man/man1/jconsole.1.gz
+update-alternatives 2026-03-15 01:27:49: link group jconsole updated to point to /usr/lib/jvm/java-21-openjdk-amd64/bin/jconsole
+update-alternatives 2026-03-26 16:54:57: run with --install /usr/bin/ctags ctags /usr/bin/ctags-exuberant 30 --slave /usr/share/man/man1/ctags.1.gz ctags.1.gz /usr/share/man/man1/ctags-exuberant.1.gz
+update-alternatives 2026-03-26 16:54:57: run with --install /usr/bin/etags etags /usr/bin/ctags-exuberant 10 --slave /usr/share/man/man1/etags.1.gz etags.1.gz /usr/share/man/man1/ctags-exuberant.1.gz

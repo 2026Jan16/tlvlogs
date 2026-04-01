@@ -1,0 +1,101 @@
+INFO: apport (pid 641546) 2026-02-01 22:36:45,049: called for global pid 637453, signal 5, core limit 0, dump mode 1
+ERROR: apport (pid 641546) 2026-02-01 22:36:45,049: is_closing_session(): no DBUS_SESSION_BUS_ADDRESS in environment
+INFO: apport (pid 641546) 2026-02-01 22:36:45,050: executable: /opt/forticlient/gui/FortiClient (command line "/opt/forticlient/gui/FortiClient\ --type=gpu-process\ --disable-gpu-sandbox\ --enable-crash-reporter=9a167e6c-e5e9-431f-a77b-727ed588d2fb,no_channel\ --user-data-dir=/home/randomname/.config/FortiClient\ --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA==\ --shared-files\ --field-trial-handle=0,i,3562208796725249275,6800924751913262015,262144\ --enable-features=kWebSQLAccess\ --disable-features=SpareRendererForSitePerProcess\ --variations-seed-version")
+INFO: apport (pid 641546) 2026-02-01 22:36:46,908: wrote report /var/crash/_opt_forticlient_gui_FortiClient.1000.crash
+INFO: apport (pid 785277) 2026-02-02 11:46:07,006: called for global pid 783118, signal 5, core limit 0, dump mode 1
+ERROR: apport (pid 785277) 2026-02-02 11:46:07,006: is_closing_session(): no DBUS_SESSION_BUS_ADDRESS in environment
+INFO: apport (pid 785277) 2026-02-02 11:46:07,007: executable: /opt/forticlient/gui/FortiClient (command line "/opt/forticlient/gui/FortiClient\ --type=gpu-process\ --disable-gpu-sandbox\ --enable-crash-reporter=9a167e6c-e5e9-431f-a77b-727ed588d2fb,no_channel\ --user-data-dir=/home/randomname/.config/FortiClient\ --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA==\ --shared-files\ --field-trial-handle=0,i,15638339768628385699,14368439841024268308,262144\ --enable-features=kWebSQLAccess\ --disable-features=SpareRendererForSitePerProcess\ --variations-seed-version")
+ERROR: apport (pid 785277) 2026-02-02 11:46:07,009: this executable already crashed 2 times, ignoring
+INFO: apport (pid 1801803) 2026-02-03 20:29:51,590: called for global pid 2636721, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1801803) 2026-02-03 20:29:52,597: executable: /opt/forticlient/fortitray (command line "/opt/forticlient/fortitray")
+INFO: apport (pid 1801803) 2026-02-03 20:29:54,407: wrote report /var/crash/_opt_forticlient_fortitray.1000.crash
+INFO: apport (pid 381710) 2026-02-11 12:22:36,128: called for global pid 353016, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 381710) 2026-02-11 12:22:36,130: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 381710) 2026-02-11 12:22:37,193: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+INFO: apport (pid 735250) 2026-02-11 17:30:21,504: called for global pid 381758, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 735250) 2026-02-11 17:30:21,509: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+ERROR: apport (pid 735250) 2026-02-11 17:30:21,510: report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash already exists and unseen, skipping to avoid disk usage DoS
+INFO: apport (pid 378993) 2026-02-18 13:30:14,122: called for global pid 271886, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 378993) 2026-02-18 13:30:14,124: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 378993) 2026-02-18 13:30:15,289: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+INFO: apport (pid 557343) 2026-02-18 17:30:22,442: called for global pid 379060, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 557343) 2026-02-18 17:30:22,445: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+ERROR: apport (pid 557343) 2026-02-18 17:30:22,446: report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash already exists and unseen, skipping to avoid disk usage DoS
+ERROR: apport (pid 2734845) 2026-02-23 12:14:57,520: host pid 2734843 crashed in a separate mount namespace, ignoring
+INFO: apport (pid 2880866) 2026-02-23 14:31:06,082: called for global pid 2606023, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 2880866) 2026-02-23 14:31:06,085: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 2880866) 2026-02-23 14:31:07,142: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+INFO: apport (pid 317481) 2026-02-25 13:31:21,747: called for global pid 221700, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 317481) 2026-02-25 13:31:21,750: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+ERROR: apport (pid 317481) 2026-02-25 13:31:21,751: report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash already exists and unseen, skipping to avoid disk usage DoS
+INFO: apport (pid 1461865) 2026-02-26 18:30:16,010: called for global pid 1420467, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1461865) 2026-02-26 18:30:16,013: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+ERROR: apport (pid 1461865) 2026-02-26 18:30:16,014: report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash already exists and unseen, skipping to avoid disk usage DoS
+INFO: apport (pid 3286801) 2026-03-02 09:31:46,065: called for global pid 3286798, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 3286801) 2026-03-02 09:31:47,070: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 3286801) 2026-03-02 09:31:47,071: executable does not belong to a package, ignoring
+INFO: apport (pid 1401244) 2026-03-05 17:39:52,693: called for global pid 1401243, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1401244) 2026-03-05 17:39:53,701: executable: /home/randomname/workspace/github/code/test/a.out (command line "./a.out")
+ERROR: apport (pid 1401244) 2026-03-05 17:39:53,701: executable does not belong to a package, ignoring
+INFO: apport (pid 1898394) 2026-03-06 14:26:53,014: called for global pid 1898393, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1898394) 2026-03-06 14:26:54,022: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out ./log.txt")
+ERROR: apport (pid 1898394) 2026-03-06 14:26:54,023: executable does not belong to a package, ignoring
+INFO: apport (pid 1902575) 2026-03-06 14:29:59,411: called for global pid 1902574, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1902575) 2026-03-06 14:30:00,418: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 1902575) 2026-03-06 14:30:00,419: executable does not belong to a package, ignoring
+INFO: apport (pid 1903634) 2026-03-06 14:31:03,655: called for global pid 1903633, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1903634) 2026-03-06 14:31:04,661: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 1903634) 2026-03-06 14:31:04,662: executable does not belong to a package, ignoring
+INFO: apport (pid 1906063) 2026-03-06 14:33:13,829: called for global pid 1906062, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1906063) 2026-03-06 14:33:14,837: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 1906063) 2026-03-06 14:33:14,838: executable does not belong to a package, ignoring
+INFO: apport (pid 1906860) 2026-03-06 14:33:44,449: called for global pid 1906859, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1906860) 2026-03-06 14:33:45,455: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 1906860) 2026-03-06 14:33:45,456: executable does not belong to a package, ignoring
+INFO: apport (pid 1907170) 2026-03-06 14:34:05,960: called for global pid 1907082, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1907170) 2026-03-06 14:34:06,966: executable: /home/randomname/workspace/github/code/tlvlogs/a.out (command line "/home/randomname/workspace/github/code/tlvlogs/a.out ./log.txt")
+ERROR: apport (pid 1907170) 2026-03-06 14:34:06,967: executable does not belong to a package, ignoring
+ERROR: apport (pid 750854) 2026-03-12 12:47:49,861: executable was modified after program start, ignoring
+INFO: apport (pid 1641563) 2026-03-13 11:42:33,325: called for global pid 2083, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 1641563) 2026-03-13 11:42:33,330: executable: /opt/MicroWorld/sbin/pscanner (command line "/opt/MicroWorld/sbin/pscanner")
+INFO: apport (pid 1641563) 2026-03-13 11:42:34,101: wrote report /var/crash/_opt_MicroWorld_sbin_pscanner.0.crash
+INFO: apport (pid 1409911) 2026-03-16 13:08:41,156: called for global pid 1940861, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 1409911) 2026-03-16 13:08:41,157: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 1409911) 2026-03-16 13:08:41,526: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+INFO: apport (pid 2271441) 2026-03-17 13:37:15,058: called for global pid 2271440, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 2271441) 2026-03-17 13:37:16,062: executable: /home/randomname/pw/ds/a.out (command line "./a.out")
+ERROR: apport (pid 2271441) 2026-03-17 13:37:16,062: executable does not belong to a package, ignoring
+INFO: apport (pid 2272045) 2026-03-17 13:37:31,936: called for global pid 2272044, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 2272045) 2026-03-17 13:37:32,939: executable: /home/randomname/pw/ds/a.out (command line "./a.out 100")
+ERROR: apport (pid 2272045) 2026-03-17 13:37:32,940: executable does not belong to a package, ignoring
+INFO: apport (pid 3631371) 2026-03-18 12:00:26,502: called for global pid 3630659, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 3631371) 2026-03-18 12:00:26,503: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+ERROR: apport (pid 3631371) 2026-03-18 12:00:26,504: report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash already exists and unseen, skipping to avoid disk usage DoS
+ERROR: apport (pid 2759667) 2026-03-23 11:42:33,078: host pid 2759665 crashed in a separate mount namespace, ignoring
+ERROR: apport (pid 2901756) 2026-03-23 13:07:33,256: host pid 2901754 crashed in a separate mount namespace, ignoring
+INFO: apport (pid 2200677) 2026-03-24 15:30:12,453: called for global pid 2217, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 2200677) 2026-03-24 15:30:12,454: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 2200677) 2026-03-24 15:30:12,764: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+INFO: apport (pid 203188) 2026-03-26 17:57:17,082: called for global pid 203175, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 203188) 2026-03-26 17:57:18,085: executable: /home/randomname/git/vpp/build-root/build-vpp-native/vpp/bin/vpp (command line "./vpp")
+ERROR: apport (pid 203188) 2026-03-26 17:57:18,085: executable does not belong to a package, ignoring
+INFO: apport (pid 203901) 2026-03-26 17:57:26,556: called for global pid 203874, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 203901) 2026-03-26 17:57:27,559: executable: /home/randomname/git/vpp/build-root/build-vpp-native/vpp/bin/vpp (command line "./vpp")
+ERROR: apport (pid 203901) 2026-03-26 17:57:27,559: executable does not belong to a package, ignoring
+INFO: apport (pid 208255) 2026-03-26 17:58:22,785: called for global pid 208239, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 208255) 2026-03-26 17:58:22,786: executable: /home/randomname/git/vpp/build-root/build-vpp-native/vpp/bin/vpp (command line "./vpp -c /tmp/startup.conf")
+ERROR: apport (pid 208255) 2026-03-26 17:58:22,788: executable does not belong to a package, ignoring
+ERROR: apport (pid 611570) 2026-03-27 11:57:36,186: host pid 611568 crashed in a separate mount namespace, ignoring
+INFO: apport (pid 729993) 2026-03-27 13:40:33,352: called for global pid 2176, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 729993) 2026-03-27 13:40:33,354: executable: /opt/MicroWorld/sbin/pscanner (command line "/opt/MicroWorld/sbin/pscanner")
+INFO: apport (pid 729993) 2026-03-27 13:40:33,591: wrote report /var/crash/_opt_MicroWorld_sbin_pscanner.0.crash
+INFO: apport (pid 3082711) 2026-03-27 17:30:30,624: called for global pid 2226, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 3082711) 2026-03-27 17:30:30,624: executable: /opt/MicroWorld/sbin/winclient (command line "/opt/MicroWorld/sbin/winclient")
+INFO: apport (pid 3082711) 2026-03-27 17:30:30,956: wrote report /var/crash/_opt_MicroWorld_sbin_winclient.0.crash
+ERROR: apport (pid 3865742) 2026-03-27 18:28:14,474: host pid 3865740 crashed in a separate mount namespace, ignoring
+INFO: apport (pid 2350474) 2026-03-30 18:00:52,473: called for global pid 2341635, signal 11, core limit 0, dump mode 1
+INFO: apport (pid 2350474) 2026-03-30 18:00:53,482: script: /usr/bin/update-manager, interpreted by /usr/bin/python3.13 (command line "/usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map")
+INFO: apport (pid 2350474) 2026-03-30 18:00:54,955: wrote report /var/crash/_usr_bin_update-manager.1000.crash
+INFO: apport (pid 2498879) 2026-03-30 19:39:56,601: called for global pid 2498878, signal 6, core limit 0, dump mode 1
+INFO: apport (pid 2498879) 2026-03-30 19:39:57,606: executable: /home/randomname/git/tlvlogs/a.out (command line "./a.out")
+ERROR: apport (pid 2498879) 2026-03-30 19:39:57,607: executable does not belong to a package, ignoring
